@@ -2,7 +2,7 @@ FROM openjdk:8u181-alpine
 
 LABEL maintainer="Mark <mark.binlab@gmail.com>"
 
-ARG JIRA_CORE_VERS=7.12.3
+ARG JIRA_CORE_VERS=7.13.0
 ARG PGSQL_JDBC_VERS=42.2.5
 ARG MYSQL_JDBC_VERS=5.1.46
 
